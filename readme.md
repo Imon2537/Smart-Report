@@ -21,9 +21,9 @@ report, progress report)
 Once basic fields are completed, users enter the main writing space where
 context-specific sections can be populated using a right-click interaction
 menu. This menu opens the SARS UI, enabling staff to input key factual
-details. SARS then expands, contextualizes, and structures the information
+details. SARS then expands, contextualizes, and structures the information 
 into a complete, high-quality report optimized to ICTA standards.
-### THE SMART AUTOMATED REPORTINGSYSTEM(SARS).
+### THE SMART AUTOMATED REPORTING SYSTEM(SARS).
 SARS is the analytical and intelligence core of SmartReport. It integrates:
 •Artificial Intelligence & NLP(Natural Language Processing) for
 interpreting user-provided inputs
