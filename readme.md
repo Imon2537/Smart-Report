@@ -8,6 +8,7 @@ inconsistencies in report structure and quality.
 ICTA SmartReport seeks to address these challenges by introducing a
 unified, intelligent platform capable of automatically producing high-
 quality, standardized reports from minimal user input.
+
 ### OVERVIEW OF ICTA SMARTREPORT
 ICTA SmartReport is a web-based platform that enables ICTA staff to
 generate complete, standardized institutional reports through guided inputs
@@ -23,6 +24,7 @@ context-specific sections can be populated using a right-click interaction
 menu. This menu opens the SARS UI, enabling staff to input key factual
 details. SARS then expands, contextualizes, and structures the information 
 into a complete, high-quality report optimized to ICTA standards.
+
 ### THE SMART AUTOMATED REPORTING SYSTEM(SARS).
 SARS is the analytical and intelligence core of SmartReport. It integrates:
 •Artificial Intelligence & NLP(Natural Language Processing) for
@@ -36,6 +38,7 @@ metadata, or operational details etc
 SARS processes user keywords, extracts relevant institutional data,
 performs contextual reasoning, and generates standardized, factual
 paragraphs aligned with official formats.
+
 ### SARS ARCHITECTURE SUMMARY.
 #### System components
 1. User Interface Layer
