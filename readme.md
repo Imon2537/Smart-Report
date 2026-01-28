@@ -1,4 +1,4 @@
-## SUBJECT : Concept proposal for ICTA SmartReport(SARS powered reporting platform)
+## SUBJECT : Concept proposal for SmartReport(SARS powered reporting platform)
 
 ### BACKGROUND.
 The preparation of official reports across many if not all departments currently
@@ -9,7 +9,7 @@ SmartReport seeks to address these challenges by introducing a
 unified, intelligent platform capable of automatically producing high-
 quality, standardized reports from minimal user input.
 
-### OVERVIEW OF ICTA SMARTREPORT
+### OVERVIEW OF SMARTREPORT
 SmartReport is a web-based platform that enables staff to
 generate complete, standardized institutional reports through guided inputs
 and automated expansion. The system comes with pre-structured report
