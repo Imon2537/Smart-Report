@@ -160,11 +160,31 @@
   display: flex;
   justify-content: space-around;
 }
+.form-element button{
+  background-color: red;
+  color: white;
+  padding: 10px 20px;
+  margin-right: 20px;
+  font-size: 18px;
+  border-radius: 10px;
+}
 .footer{
   height: 50vh;
   background-color: black;
   color: white;
+  display: grid;
+  place-content: center;
+}
+.footer-elements{
+  display: grid;
+  grid-template-columns: repeat(4, 200px);
+  grid-template-rows: 100px;
+  place-content: center;
+  gap: 40px;
 }
 .footer-container{
-  border: 1px solid white;
+  border: 3px solid white;
+  text-align: center;
+  display: grid;
+  place-content: center;
 }
